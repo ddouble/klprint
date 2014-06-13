@@ -1,0 +1,102 @@
+{
+  "ieevent": {
+    "identifier": "ieevent",
+    "url": "IEEvent.js",
+    "context": "page"
+  },
+  "popup": {
+    "identifier": "popup",
+    "url": "popup.js",
+    "context": "page"
+  },
+  "clsid": {
+    "identifier": "clsid",
+    "url": "clsid.js",
+    "context": "page"
+  },
+  "dynamic": {
+    "identifier": "dynamic",
+    "url": "dynamic.js",
+    "context": "page"
+  },
+  "createElement": {
+    "identifier": "createElement",
+    "url": "createElement.js",
+    "context": "page"
+  },
+  "none2block": {
+    "identifier": "none2block",
+    "url": "none2block.js",
+    "context": "extension"
+  },
+  "_cmb_pay": {
+    "identifier": "_cmb_pay",
+    "url": "cmb_pay.js",
+    "context": "page"
+  },
+  "_bugu_patch": {
+    "identifier": "_bugu_patch",
+    "url": "bugu_patch.js",
+    "context": "page"
+  },
+  "map_id_name": {
+    "identifier": "map_id_name",
+    "url": "map_id_name.js",
+    "context": "extension"
+  },
+  "boc_disable_fingerprint": {
+    "identifier": "boc_disable_fingerprint",
+    "url": "boc_disable_fingerprint.js",
+    "context": "page"
+  }, 
+  "ieidname": {
+    "identifier": "ieidname",
+    "url": "ieidname.js",
+    "context": "page"
+  },
+  "formid": {
+    "identifier": "formid",
+    "url": "formid.js",
+    "context": "extension"
+  },
+  "activate_inplace": {
+    "identifier": "activate_inplace",
+    "url": "activate_inplace.js",
+    "context": "extension"
+  },
+  "documentid": {
+    "identifier": "documentid",
+    "url": "documentid.js",
+    "context": "extension"
+  },
+  "cpuClass": {
+    "identifier": "cpuClass",
+    "url": "cpuclass.js",
+    "context": "page"
+  },
+  "95559_submit": {
+    "identifier": "95559_submit",
+    "url": "95559_submit.js",
+    "context": "page"
+  },
+  "cebpay": {
+    "identifier": "cebpay",
+    "url": "cebpay.js",
+    "context": "page"
+  },
+  "_poco_upload": {
+    "identifier": "_poco_upload",
+    "url": "poco_upload.js",
+    "context": "page"
+  },
+  "_tipzap_player": {
+    "identifier": "_tipzap_player",
+    "url": "_tipzap_player.js",
+    "context": "page"
+  },
+  "_cloud_zz": {
+    "identifier": "_cloud_zz",
+    "url": "_cloudzz.js",
+    "context": "page"
+  }
+}

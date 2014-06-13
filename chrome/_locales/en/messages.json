@@ -1,0 +1,189 @@
+﻿{
+  "plug_name": {
+    "message": "ActiveX for Chrome"
+  },
+  "plug_desp": {
+    "message": "Use ActiveX controls in your Chrome"
+  },
+  "wikicode": {
+    "message": "en"
+  },
+  "copyright": {
+    "message": "This extension is made by eagleonhill."
+  },
+  "help": {
+    "message": "Help"
+  },
+  "issue_page": {
+    "message": "If you find any problems, report it here!!"
+  },
+  "option_title": {
+    "message": "ActiveX for Chrome Settings"
+  },
+  "option_help": {
+    "message": "Please enable the following rules or add custom ones as you need. You can also enable them later by clicking the icon at the right of the address bar if the page contains ActiveX controls."
+  },
+  "upgrade_show": {
+    "message": "Thanks for using ActiveX for Chrome.\n We have upgraded our setting system. Please check if our conversion is correct and remove all the related user-scripts(if any)"
+  },
+  "Enabled": {
+    "message": "Enabled"
+  },
+  "Disabled": {
+    "message": "Disabled"
+  },
+  "Custom": {
+    "message": "Custom"
+  },
+  "add": {
+    "message": "Add"
+  },
+  "delete": {
+    "message": "Remove"
+  },
+  "moveUp": {
+    "message": "Move up"
+  },
+  "moveDown": {
+    "message": "Move down"
+  },
+  "lastupdatetime": {
+    "message": "Last update at"
+  },
+  "doUpdate": {
+    "message": "Update now"
+  },
+  "log_enable": {
+    "message": "Enable Log"
+  },
+  "tracking": {
+    "message": "Allow sending statistics data to us for better development"
+  },
+  "title": {
+    "message": "Title"
+  },
+  "mode": {
+    "message": "Mode"
+  },
+  "WildChar": {
+    "message": "WildChar"
+  },
+  "RegEx": {
+    "message": "RegEx"
+  },
+  "CLSID": {
+    "message": "CLSID"
+  },
+  "pattern": {
+    "message": "Pattern"
+  },
+  "user_agent": {
+    "message": "User Agent"
+  },
+  "helper_script": {
+    "message": "Other helper scripts"
+  },
+  "update_progress": {
+    "message": "Updating "
+  },
+  "status_ok": {
+    "message": "The controls on this page are working."
+  },
+  "submitissue": {
+    "message": "Report problems"
+  },
+  "status_urldetect": {
+    "message": "ActiveX controls can be used on this site."
+  },
+  "status_disabled": {
+    "message": "Some ActiveX controls are detected, but not actived."
+  },
+  "status_error": {
+    "message": "Some ActiveX controls might not be working correctly."
+  },
+  "issue_desp": {
+    "message": "We've already found some problems which may cause the controls not working correctly. Fix soon."
+  },
+  "issue_track": {
+    "message": "Find details on the problem"
+  },
+  "refresh_needed": {
+    "message": "Refresh page to apply"
+  },
+  "enable_default_rule": {
+    "message": "Enable predefined rule $rule$",
+    "placeholders": {
+      "rule": {
+        "content": "$1"
+      }
+    }
+  },
+  "add_rule_site": {
+    "message": "Enable all controls on site $site$",
+    "placeholders": {
+      "site": {
+        "content": "$1"
+      }
+    }
+  },
+  "add_rule_clsid": {
+    "message": "Enable controls with same CLSID"
+  },
+  "issue_submitting_desp": {
+    "message": "Please continue operating normally on this page. Report guide will pop after the current page is closed"
+  },
+  "view_log": {
+    "message": "View logs"
+  },
+  "log": {
+    "message": "Log"
+  },
+  "issue_submit_desp": {
+    "message": "I'll copy the logs above in the issue report"
+  },
+  "issue_submit_goto": {
+    "message": "Report problem"
+  },
+  "bar_enable": {
+    "message": "Use them now!"
+  },
+  "bar_close": {
+    "message": "Close"
+  },
+  "bar_block": {
+    "message": "Don't notify for $1"
+  },
+  "log_tracking": {
+    "message": "Open log after closing this page to submitt issues"
+  },
+  "donate_label": {
+    "message": "Help us improve!"
+  },
+  "taobao_donate": {
+    "message": "Donate with Taobao.com"
+  },
+  "donate_record": {
+    "message": "View donate history"
+  },
+  "donate": {
+    "message": "Donate"
+  },
+  "welcome_share": {
+    "message": "Recommend us to your friends!"
+  },
+  "welcome": {
+    "message": "Thanks for using ActiveX for Chrome"
+  },
+  "usage": {
+    "message": "ActiveX controls are only enabled by whitelist!\nClick the button on right of the address bar (if it's available) to activate it."
+  },
+  "usage_advanced": {
+    "message": "Advanced options"
+  },
+  "faq": {
+    "message": "FAQ"
+  },
+  "pa_tip_text": {
+    "message": "Click here to allow ActiveX controls"
+  }
+}

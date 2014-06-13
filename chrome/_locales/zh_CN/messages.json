@@ -1,0 +1,189 @@
+﻿{
+  "plug_name": {
+    "message": "ActiveX for Chrome 网银助手"
+  },
+  "plug_desp": {
+    "message": "在Chrome中使用网银、播放器、OA等ActiveX控件"
+  },
+  "wikicode": {
+    "message": "zh-Hans"
+  },
+  "help": {
+    "message": "查看帮助"
+  },
+  "copyright": {
+    "message": "本扩展由eagleonhill制作"
+  },
+  "issue_page": {
+    "message": "如果你发现错误，请在此汇报给我们！"
+  },
+  "option_title": {
+    "message": "ActiveX for Chrome设置"
+  },
+  "option_help": {
+    "message": "请根据需要激活下面的规则或添加自定义规则。你也可以在需要使用控件的网页地址栏右边点击插件图标进行自动激活。"
+  },
+  "upgrade_show": {
+    "message": "感谢使用ActiveX for Chrome。\n我们最近更新了安全规则方案，请检查转换的设置是否正确，并删除曾经安装的全部兼容补丁以免冲突（工商银行、农业银行、招商银行、CNTV等需要的兼容补丁已在此版本中集成）。原来无效的设置项已经删除。"
+  },
+  "Enabled": {
+    "message": "已启用"
+  },
+  "Disabled": {
+    "message": "已禁用"
+  },
+  "Custom": {
+    "message": "自定义"
+  },
+  "add": {
+    "message": "添加"
+  },
+  "delete": {
+    "message": "删除"
+  },
+  "moveUp": {
+    "message": "上移"
+  },
+  "moveDown": {
+    "message": "下移"
+  },
+  "lastupdatetime": {
+    "message": "最后更新于"
+  },
+  "doUpdate": {
+    "message": "立即更新"
+  },
+  "log_enable": {
+    "message": "显示日志"
+  },
+  "tracking": {
+    "message": "允许发送统计数据以更好地改进此扩展"
+  },
+  "title": {
+    "message": "标题"
+  },
+  "mode": {
+    "message": "模式"
+  },
+  "WildChar": {
+    "message": "通配符"
+  },
+  "RegEx": {
+    "message": "正则表达式"
+  },
+  "CLSID": {
+    "message": "CLSID"
+  },
+  "pattern": {
+    "message": "匹配内容"
+  },
+  "user_agent": {
+    "message": "用户代理"
+  },
+  "helper_script": {
+    "message": "辅助脚本"
+  },
+  "update_progress": {
+    "message": "更新中 "
+  },
+  "status_ok": {
+    "message": "当前页面上的控件运行正常。"
+  },
+  "submitissue": {
+    "message": "报告问题"
+  },
+  "status_urldetect": {
+    "message": "你可能希望在该网站上使用ActiveX控件。"
+  },
+  "status_disabled": {
+    "message": "在当前页面发现未激活的控件，点击按钮启用。"
+  },
+  "status_error": {
+    "message": "有些控件可能不能正常运行。"
+  },
+  "issue_desp": {
+    "message": "我们已经确认一些问题，导致当前页面的控件无法正常使用。我们将尽快修复。"
+  },
+  "issue_track": {
+    "message": "追踪错误"
+  },
+  "refresh_needed": {
+    "message": "请刷新页面以应用更改"
+  },
+  "enable_default_rule": {
+    "message": "启用预定义规则 $rule$",
+    "placeholders": {
+      "rule": {
+        "content": "$1"
+      }
+    }
+  },
+  "add_rule_site": {
+    "message": "启用在 $site$ 上的所有控件",
+    "placeholders": {
+      "site": {
+        "content": "$1"
+      }
+    }
+  },
+  "add_rule_clsid": {
+    "message": "启用全部相同CLSID的控件"
+  },
+  "issue_submitting_desp": {
+    "message": "请继续正常操作当前页面。报告向导将在页面关闭或跳转时打开。"
+  },
+  "view_log": {
+    "message": "查看日志"
+  },
+  "log": {
+    "message": "日志"
+  },
+  "issue_submit_desp": {
+    "message": "我将在我的错误汇报中附上以上日志内容"
+  },
+  "issue_submit_goto": {
+    "message": "汇报问题"
+  },
+  "bar_enable": {
+    "message": "立即启用"
+  },
+  "bar_close": {
+    "message": "关闭"
+  },
+  "bar_block": {
+    "message": "不再在$1通知我"
+  },
+  "log_tracking": {
+    "message": "在此页面关闭时打开此日志以便汇报问题。"
+  },
+  "donate_label": {
+    "message": "赞助我们，让我们做得更好！"
+  },
+  "taobao_donate": {
+    "message": "试下淘宝?"
+  },
+  "donate_record": {
+    "message": "赞助历史。"
+  },
+  "donate": {
+    "message": "赞助我们"
+  },
+  "welcome_share": {
+    "message": "快向小伙伴们推荐我们吧！"
+  },
+  "welcome": {
+    "message": "感谢您使用ActiveX for Chrome"
+  },
+  "usage": {
+    "message": "为了您的浏览安全，只有指定的网站可以运行ActiveX控件。\n若当前网站在使用ActiveX控件时，请点击地址栏右边的按钮（见右图）开启相应的控件！"
+  },
+  "usage_advanced": {
+    "message": "高级设置"
+  },
+  "faq": {
+    "message": "常见问题"
+  },
+  "pa_tip_text": {
+    "message": "点这里开启对当前网站的支持"
+  }
+}
